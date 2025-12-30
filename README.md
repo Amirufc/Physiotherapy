@@ -15,6 +15,5 @@
 - Never look directly at the light from either device
 - Start with half the recommended time in the first week and gradually increase
 - After 2 weeks, if feeling good, extend LED sessions up to 25 minutes
-
-Copy this entire block into a new file named `physiotherapy-plan.md` on GitHub – it will render perfectly as a clean, professional table!  
+---
 Wishing you a speedy recovery! 💪
